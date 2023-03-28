@@ -1,0 +1,216 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/home/larsid/anaconda3/pkgs/paho-mqtt-1.6.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/paho/__init__.py",
+    "lib/python3.11/site-packages/paho/mqtt/__init__.py",
+    "lib/python3.11/site-packages/paho/mqtt/client.py",
+    "lib/python3.11/site-packages/paho/mqtt/matcher.py",
+    "lib/python3.11/site-packages/paho/mqtt/packettypes.py",
+    "lib/python3.11/site-packages/paho/mqtt/properties.py",
+    "lib/python3.11/site-packages/paho/mqtt/publish.py",
+    "lib/python3.11/site-packages/paho/mqtt/reasoncodes.py",
+    "lib/python3.11/site-packages/paho/mqtt/subscribe.py",
+    "lib/python3.11/site-packages/paho/mqtt/subscribeoptions.py",
+    "lib/python3.11/site-packages/paho_mqtt-1.6.1-py3.10.egg-info/PKG-INFO",
+    "lib/python3.11/site-packages/paho_mqtt-1.6.1-py3.10.egg-info/SOURCES.txt",
+    "lib/python3.11/site-packages/paho_mqtt-1.6.1-py3.10.egg-info/dependency_links.txt",
+    "lib/python3.11/site-packages/paho_mqtt-1.6.1-py3.10.egg-info/not-zip-safe",
+    "lib/python3.11/site-packages/paho_mqtt-1.6.1-py3.10.egg-info/requires.txt",
+    "lib/python3.11/site-packages/paho_mqtt-1.6.1-py3.10.egg-info/top_level.txt",
+    "lib/python3.11/site-packages/paho/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/client.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/matcher.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/packettypes.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/properties.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/publish.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/reasoncodes.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/subscribe.cpython-311.pyc",
+    "lib/python3.11/site-packages/paho/mqtt/__pycache__/subscribeoptions.cpython-311.pyc"
+  ],
+  "fn": "paho-mqtt-1.6.1-pyhd8ed1ab_0.tar.bz2",
+  "license": "EPL-2.0 AND BSD-3-Clause",
+  "license_family": "OTHER",
+  "link": {
+    "source": "/home/larsid/anaconda3/pkgs/paho-mqtt-1.6.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "1cc8b24942cf8d551da8e38400716194",
+  "name": "paho-mqtt",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/larsid/anaconda3/pkgs/paho-mqtt-1.6.1-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/paho/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/paho/mqtt/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0b4a9416e187169e8f7f92da4d183a260ed022f15c3b68f500a017b08cb65e5f",
+        "sha256_in_prefix": "0b4a9416e187169e8f7f92da4d183a260ed022f15c3b68f500a017b08cb65e5f",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "site-packages/paho/mqtt/client.py",
+        "path_type": "hardlink",
+        "sha256": "baf12efe6fc9ca995fbce655a51183140d2ad630e730e1447000d74140a0af02",
+        "sha256_in_prefix": "baf12efe6fc9ca995fbce655a51183140d2ad630e730e1447000d74140a0af02",
+        "size_in_bytes": 153182
+      },
+      {
+        "_path": "site-packages/paho/mqtt/matcher.py",
+        "path_type": "hardlink",
+        "sha256": "4676b9065f77591f2d63f043b45ba7eeda8f0c5110529a79cc5695485edb7dee",
+        "sha256_in_prefix": "4676b9065f77591f2d63f043b45ba7eeda8f0c5110529a79cc5695485edb7dee",
+        "size_in_bytes": 2771
+      },
+      {
+        "_path": "site-packages/paho/mqtt/packettypes.py",
+        "path_type": "hardlink",
+        "sha256": "675c1579c6562d58b3631c2998f9e0d29049279be91614de74593217bcb03eb8",
+        "sha256_in_prefix": "675c1579c6562d58b3631c2998f9e0d29049279be91614de74593217bcb03eb8",
+        "size_in_bytes": 1453
+      },
+      {
+        "_path": "site-packages/paho/mqtt/properties.py",
+        "path_type": "hardlink",
+        "sha256": "8144a47cedda009c17b0540e97c9415ab60c356b5ae83d9c9388f8eec5cf7400",
+        "sha256_in_prefix": "8144a47cedda009c17b0540e97c9415ab60c356b5ae83d9c9388f8eec5cf7400",
+        "size_in_bytes": 17815
+      },
+      {
+        "_path": "site-packages/paho/mqtt/publish.py",
+        "path_type": "hardlink",
+        "sha256": "6454a641e32b44f50cc008214cf603aea3e23276a0b7367c3b3d2dc4a29e715e",
+        "sha256_in_prefix": "6454a641e32b44f50cc008214cf603aea3e23276a0b7367c3b3d2dc4a29e715e",
+        "size_in_bytes": 9624
+      },
+      {
+        "_path": "site-packages/paho/mqtt/reasoncodes.py",
+        "path_type": "hardlink",
+        "sha256": "270db26f8e14170d993b7984583a77fba4cbd9fc374087c7301dd24ed9341eba",
+        "sha256_in_prefix": "270db26f8e14170d993b7984583a77fba4cbd9fc374087c7301dd24ed9341eba",
+        "size_in_bytes": 8591
+      },
+      {
+        "_path": "site-packages/paho/mqtt/subscribe.py",
+        "path_type": "hardlink",
+        "sha256": "e5c198f56015705e507a9f7ad17c6405df1c5809bf11117444a2e8d85e8bf817",
+        "sha256_in_prefix": "e5c198f56015705e507a9f7ad17c6405df1c5809bf11117444a2e8d85e8bf817",
+        "size_in_bytes": 11382
+      },
+      {
+        "_path": "site-packages/paho/mqtt/subscribeoptions.py",
+        "path_type": "hardlink",
+        "sha256": "4d566532e4997859d1144a68c24ac18401d36dfa46ab3068d72af2239a416d13",
+        "sha256_in_prefix": "4d566532e4997859d1144a68c24ac18401d36dfa46ab3068d72af2239a416d13",
+        "size_in_bytes": 4616
+      },
+      {
+        "_path": "site-packages/paho_mqtt-1.6.1-py3.10.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "89fea345885396fb38e50515b7628f60038a273278bd4d6671bd263e347bb859",
+        "sha256_in_prefix": "89fea345885396fb38e50515b7628f60038a273278bd4d6671bd263e347bb859",
+        "size_in_bytes": 47314
+      },
+      {
+        "_path": "site-packages/paho_mqtt-1.6.1-py3.10.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "4eb53386795b736a664446795d67f2bb3a7aa2f3adcd370e07cb79a73e9f268a",
+        "sha256_in_prefix": "4eb53386795b736a664446795d67f2bb3a7aa2f3adcd370e07cb79a73e9f268a",
+        "size_in_bytes": 1254
+      },
+      {
+        "_path": "site-packages/paho_mqtt-1.6.1-py3.10.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/paho_mqtt-1.6.1-py3.10.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/paho_mqtt-1.6.1-py3.10.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "901c4aa36df3f105bc49761721ac7f887322211ee742904340b6b3a1cee3719e",
+        "sha256_in_prefix": "901c4aa36df3f105bc49761721ac7f887322211ee742904340b6b3a1cee3719e",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "site-packages/paho_mqtt-1.6.1-py3.10.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "633dc5b75780db163dee3631e896ab02c59f6156b9e391624c100d65f9ca4123",
+        "sha256_in_prefix": "633dc5b75780db163dee3631e896ab02c59f6156b9e391624c100d65f9ca4123",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/client.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/matcher.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/packettypes.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/properties.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/publish.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/reasoncodes.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/subscribe.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.11/site-packages/paho/mqtt/__pycache__/subscribeoptions.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "paho-mqtt",
+  "sha256": "fc04382d651c331ad78fd0c043695ddfd6544abe90bcbdd14f0d6deb87503e3b",
+  "size": 49548,
+  "subdir": "noarch",
+  "timestamp": 1652373967865,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/paho-mqtt-1.6.1-pyhd8ed1ab_0.tar.bz2",
+  "version": "1.6.1"
+}

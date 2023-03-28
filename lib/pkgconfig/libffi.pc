@@ -1,0 +1,11 @@
+prefix=/home/larsid/anaconda3/envs/smart-vehicle-eletric-charging
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/home/larsid/anaconda3/envs/smart-vehicle-eletric-charging/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.2
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
